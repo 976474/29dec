@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0074-A027
+
+ Directory of C:\Users\DOt.Softwares\eclipse-workspace\Javaproject\src
+
+12/29/2017  01:32 PM    <DIR>          .
+12/29/2017  01:32 PM    <DIR>          ..
+12/26/2017  01:08 PM    <DIR>          abc
+12/29/2017  01:32 PM                 0 test222.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  24,819,228,672 bytes free
